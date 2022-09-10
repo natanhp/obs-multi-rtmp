@@ -1,0 +1,6 @@
+# ninja log v5
+11069	11538	1661626776210026776	obs-multi-rtmp.so	555dbcad2a677f06
+5420	11069	1661626775740026774	CMakeFiles/obs-multi-rtmp.dir/src/push-widget.cpp.o	af4d10a19bd336af
+5419	7494	1661626772170026761	CMakeFiles/obs-multi-rtmp.dir/src/obs-multi-rtmp.cpp.o	4e5dc617e9ad9c5a
+0	5418	1661626770056693421	CMakeFiles/obs-multi-rtmp.dir/cmake_pch.hxx.gch	c2aaab2013b894e2
+5419	6852	1661626771526693426	CMakeFiles/obs-multi-rtmp.dir/src/edit-widget.cpp.o	3d6a4c929bcce3d4
