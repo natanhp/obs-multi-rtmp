@@ -1,3 +1,6 @@
+# Context
+This is for linux user that couldn't compile because some codes in `pch.h` didn't follow C++ linux convention.
+
 # [Homepage / 主页](https://sorayuki.github.io/obs-multi-rtmp)
 
 # 声明 
